@@ -140,6 +140,7 @@ input_text = st.text_area(
     key="user_input"
 )
 
+
 col1, col2 = st.columns([4, 1])
 
 with col1:
