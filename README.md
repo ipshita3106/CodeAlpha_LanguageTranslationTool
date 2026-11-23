@@ -35,6 +35,18 @@ LinguaAI is a web-based language translation application developed using Python 
 - Portuguese
 - Russian
 
+## 📸 Application Screenshots
+
+### 1. Home Page
+![Home Page](screenshots/home.png)
+
+### 2. Language Selection
+![Language Selection](screenshots/language-selection.png)
+
+### 3. Translation Result
+![Translation Result](screenshots/translation-result.png)
+
+
 ## 📁 Project Structure
 
 ```text
